@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Portfolio website<br>🌱 I’m currently learning backend<br>💬 Ask me about django and bootstrap<br>⚡ Fun fact, I'm a game developer
+🔭 I’m currently Exploring AI<br>🌱 I’m currently learning backend<br>💬 Ask me about django and bootstrap<br>⚡ Fun fact, I'm a game developer
 
 
 ## 🌐 Socials:
