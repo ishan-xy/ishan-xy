@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently improving my dsa<br>🌱 I'm currently learning ml<br>💬 Ask me about Django<br>⚡Fun fact, I'm a game developer<br>
+💬 Ask me about Django<br>⚡Fun fact, I'm a game developer<br>
 
 
 ## 🌐 Socials:
