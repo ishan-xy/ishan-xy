@@ -1,5 +1,5 @@
 # About Me:
-Full Stack Engineer • Backend Heavy (Go Fiber, Python Django/FastApi, Express, React)  <br>I also used to make games (Unity, C#)  <br><br>I love building high-performance backend systems, exploring new tech!  <br>Working with databases, servers, and everything in between. <br>⚡ Fun fact: Clean code saves more time than it takes.<br>
+Full Stack Engineer • Backend Heavy (Go Fiber, Python Django/FastApi, Express, React)  <br>I also used to make games (Unity, C#) ⚡ Fun fact: Clean code saves more time than it takes.<br>
 
 
 ## Socials:
